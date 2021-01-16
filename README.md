@@ -1,1 +1,1 @@
-# Contains handbooks of various fields of programming
+# Contains handbooks of various fields of programming.
